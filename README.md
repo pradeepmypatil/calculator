@@ -1,2 +1,4 @@
 # calculator
-For calculating the numbers<br>like 2*3 ,33/3
+
+For calculating the numbers
+like  '2\*3 ,'33/3'
